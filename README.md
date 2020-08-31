@@ -1,6 +1,3 @@
----
-title: Teste
----
 
 ## HashData forms user guide
 
