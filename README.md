@@ -1,5 +1,5 @@
 ---
-page.title: Teste
+title: Teste
 ---
 
 ## HashData forms user guide
