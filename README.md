@@ -1,44 +1,14 @@
 
-## HashData forms user guide
+## HashData Forms user guide
 
-{% for page in site.pages %}
-<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-{% endfor %}
+This is the user guide repository for Hashdata Apps.
+Click on links above to see the docs:
 
-<img src="bitmap.png" alt="">
+[English: User guide](https://docs.hashdata.app/en)
 
-You can use the [editor on GitHub](https://github.com/HashdataTeam/hd-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Português: manual do usuário](https://docs.hashdata.app/pt_BR)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Español: guía del usuario](https://docs.hashdata.app/es)
 
-### Markdown
+[Français: Guide de l'utilisateur](https://docs.hashdata.app/fr)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HashdataTeam/hd-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
