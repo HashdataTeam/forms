@@ -2,7 +2,7 @@
 ## HashData Forms user guide
 
 This is the user guide repository for Hashdata Apps.
-Click on links above to see the docs:
+Click on links bellow to see the docs:
 
 [English: User guide](https://docs.hashdata.app/en)
 
