@@ -7,5 +7,7 @@ has_children: true
 
 Página em Português (Brasil)
 
+Nova edição.
+
 krjb kjekjfhekfhkfhk eh fkerhkfhk hkhkrrf 
 
