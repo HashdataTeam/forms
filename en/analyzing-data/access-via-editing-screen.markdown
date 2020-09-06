@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to create questions via the “Add questions” button
-nav_order: 3
+title: Access via editing screen
+nav_order: 18
 parent: English
 ---
 # <i>How to create questions via the “Add questions” button</i>
