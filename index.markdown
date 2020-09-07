@@ -4,9 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-# Bem vindo / Welcome
+# Welcome to Hashdata Tutorial
 
-Página inicial
-
-teste by Hiury.
-jrhke kjh vkh kejrhv khre vkrehvkehrv ke
+Here you will find all the necessary documentation to use hashdata in high performance.

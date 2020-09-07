@@ -1,11 +1,11 @@
 ---
 layout: page
-title: How to create questions via the “Add add-ons” button
+title: Create questions via the “Add add-ons” button
 nav_order: 5
 parent: Forms
 grand_parent: English
 ---
-# How to create questions via the “Add add-ons” button
+# Create questions via the “Add add-ons” button
 
  
 ![forms10](/en/assets/images/forms10.png)

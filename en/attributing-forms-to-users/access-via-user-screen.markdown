@@ -5,7 +5,7 @@ nav_order: 15
 parent: Attributing forms to users
 grand_parent: English
 ---
-# 2) Access via users screen
+# Access via users screen
 
 (Screen: users)
 Open the user screen and click on the 

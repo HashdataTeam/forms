@@ -5,7 +5,7 @@ nav_order: 14
 parent: Attributing forms to users
 grand_parent: English
 ---
-# 1) Access via forms screen
+# Access via forms screen
 
 Open the form. If it is already published, click on 
 “Authorized Users”

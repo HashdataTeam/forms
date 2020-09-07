@@ -1,11 +1,11 @@
 ---
 layout: page
-title: How to attribute mathematical formulae to questions with values
+title: Attribute mathematical formulae to questions with values
 nav_order: 8
 parent: Forms
 grand_parent: English
 ---
-# How to attribute mathematical formulae to questions with values
+# Attribute mathematical formulae to questions with values
 
 After performing the first step on all questions to be 
 calculated, it is time to create the mathematical 

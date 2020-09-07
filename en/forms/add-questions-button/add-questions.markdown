@@ -1,11 +1,11 @@
 ---
 layout: page
-title: How to create questions via the “Add questions” button
+title: Create questions via the “Add questions” button
 nav_order: 3
 parent: Forms
 grand_parent: English
 ---
-# How to create questions via the “Add questions” button
+# Create questions via the “Add questions” button
  
 There are two buttons to create questions on Hashdata: 
 “add questions” and “add add-ons”. In this section, we 

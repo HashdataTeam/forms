@@ -1,11 +1,11 @@
 ---
 layout: page
-title: How to create questions via the “Add questions” button
+title: Create questions via the “Add questions” button
 nav_order: 7
 parent: Forms
 grand_parent: English
 ---
-# 1) How to attribute values to answers in a question
+# 1) Attribute values to answers in a question
 
 Open the desired question (multiple choice with a 
 single answer or evaluation/satisfaction) or create 

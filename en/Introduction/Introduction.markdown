@@ -13,9 +13,9 @@ IOS (Appstore) and Windows 10 (contact us). There are five
 fundamental steps to using the system:
 
 1.	[Creating forms](/en/forms/creating-forms/creating_forms)
-1.	[Creating users](/en/creating-users/users.markdown)
-1.	[Attributing forms to users](/en/attributing-forms-to-users/attributing-forms-to-users.markdown)
+1.	[Creating users](/en/creating-users/users)
+1.	[Attributing forms to users](/en/attributing-forms-to-users/attributing-forms-to-users)
 1.	[Publishing forms](/en/forms/creating-forms/creating_forms)
-1.	[Analyzing data](/en/forms/creating-forms/analyzing-data)
+1.	[Analyzing data](/en/forms/analyzing-data/analyzing-data)
 
 All other functionalities are associated to one or more of these steps, which will be explained throughout this tutorial.
