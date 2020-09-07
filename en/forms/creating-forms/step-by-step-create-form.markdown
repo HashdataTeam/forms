@@ -312,6 +312,8 @@ Select the users individually or by organizational units.
 
 ![forms27](/en/assets/images/forms27.png)
 
+## 2) Access via users screen
+
 (Screen: users)
 Open the user screen and click on the 
 button ![button](/en/assets/images/button.png), next 
