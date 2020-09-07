@@ -346,30 +346,38 @@ Access via the reports screen on the initial menu:
 ![forms31](/en/assets/images/forms31.png)
 
 
-
 ![forms32](/en/assets/images/forms32.png)
 
-
+The graphical analysis will be accessed via the editing screen in the desired form. 
+On the top right corner, click on more >> graphical analysis. 
 
 ![forms33](/en/assets/images/forms33.png)
 
+## Access via editing screen
+
+(screen: forms >> choosing a form >> more >> graphical 
+analysis of answer)
 
 
 ![forms34](/en/assets/images/forms34.png)
 
-
-
 ![forms35](/en/assets/images/forms35.png)
 
+## Answer table
+
+(screen: forms >> choose the form to be analyzed >> more >> 
+answer table)
+
+By clicking on “answer table”, it is possible to generate 
+collection reports in PDF or export the data in XLS or CSV.
 
 
 ![forms36](/en/assets/images/forms36.png)
 
-
-
 ![forms37](/en/assets/images/forms37.png)
 
-
+It is possible to generate a general report or a report 
+filtered by period: 
 
 ![forms38](/en/assets/images/forms38.png)
 
