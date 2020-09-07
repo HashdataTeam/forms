@@ -2,7 +2,19 @@
 layout: page
 title: Creating users via account manager or via user with managing permissions
 nav_order: 11
-parent: English
+parent: Users
+grand_parent: English
 ---
-# <i>How to create questions via the “Add questions” button</i>
-There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction.
+# Creating users via account manager or via user with managing permissions 
+
+(Screen: users >> create user)
+In this mode, the account manager creates each user 
+(generating login and password) and attributes the access 
+levels manually. 
+
+![forms20](/en/assets/images/forms20.png)
+
+As they are created, the users appear in the managing 
+screen, where it is possible to make changes later:
+
+![forms21](/en/assets/images/forms21.png)

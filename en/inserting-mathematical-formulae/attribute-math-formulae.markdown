@@ -2,7 +2,35 @@
 layout: page
 title: How to attribute mathematical formulae to questions with values
 nav_order: 8
-parent: English
+parent: Forms
+grand_parent: English
 ---
-# <i>How to create questions via the “Add questions” button</i>
-There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction.
+# How to attribute mathematical formulae to questions with values
+
+After performing the first step on all questions to be 
+calculated, it is time to create the mathematical 
+formulae. Click on “add add-ons” and, then, on 
+“mathematical formula”.
+
+![forms16](/en/assets/images/forms16.png)
+
+The following editing layout will appear:
+
+![forms17](/en/assets/images/forms17.png)
+
+On the field “formula/expression”, insert the desired 
+formula. On the case of the example - 
+(S11+S12+S13).S21 – the signs supposed to be used are:
+
+Operation | Symbol
+------------ | -------------
+addition | +
+Subtraction | -
+Division | /
+Multiplication | .
+
+All questions that had been through step 1 will appear 
+on the field “variables available” and will be available 
+to the accounts.
+
+![forms18](/en/assets/images/forms18.png)

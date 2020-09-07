@@ -2,7 +2,29 @@
 layout: page
 title: Pre-sign up links
 nav_order: 12
-parent: Creating Forms
+parent: Users
+grand_parent: English
 ---
-# <i>How to create questions via the “Add questions” button</i>
-There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction.
+# Pre-sign up links
+(screen: users >> create pre-registration link >> 
+create new link)
+
+In this mode, the account managers pre-sets the access 
+levels desired and a link is generated automatically. 
+From this link, anyone who accesses it is able to fill 
+the fields with their information. That way, if the 
+manager needs to register hundreds of users who are 
+only supposed to collect data, a simple alternative is 
+to assign the option “perform data collection” to all 
+users registered via this link. 
+
+
+![forms22](/en/assets/images/forms22.png)
+
+After clicking on “save”, the link will be generated:
+
+![forms23](/en/assets/images/forms23.png)
+
+All users, whether created via link or manually, 
+will appear on the managing screens – user manager 
+screen or attribution of forms to a user. 

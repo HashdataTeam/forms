@@ -2,7 +2,18 @@
 layout: page
 title: Inserting mathematical formulae
 nav_order: 6
-parent: English
+parent: Forms
+grand_parent: English
 ---
-# <i>How to create questions via the “Add questions” button</i>
-There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction.
+# Inserting mathematical formulae
+
+The questions of the type “mathematical formula” 
+are used to perform arithmetical calculations from 
+the answers given. This type of question is attributed 
+to multiple choice questions with only one answer or 
+questions of evaluation/satisfaction. There are, 
+fundamentally, two steps to create a question like 
+this: 1) attributing values to the answers of a 
+multiple choice question with only one answer or of 
+evaluation/satisfaction and 2) performing the desired 
+calculation, which will be detailed below. 

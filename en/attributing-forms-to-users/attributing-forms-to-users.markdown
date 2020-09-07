@@ -1,8 +1,14 @@
 ---
 layout: page
-title: Access via forms screen
-nav_order: 13
+title: Attributing forms to users
+nav_order: 3
 parent: English
+has_children: true
 ---
-# <i>How to create questions via the “Add questions” button</i>
-There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction.
+# Attributing forms to users
+
+(screen: forms >> publications)
+
+There are two ways of attributing forms to users: 
+**1) via the screen of the form to be accessed** or **2) 
+via the screen of the user to be granted access.**

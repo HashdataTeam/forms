@@ -2,7 +2,23 @@
 layout: page
 title: Answer table
 nav_order: 19
-parent: English
+parent: Analyzing data
+grand_parent: English
 ---
-# <i>How to create questions via the “Add questions” button</i>
-There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction.
+# Answer table
+
+(screen: forms >> choose the form to be analyzed >> more >> 
+answer table)
+
+By clicking on “answer table”, it is possible to generate 
+collection reports in PDF or export the data in XLS or CSV.
+
+
+![forms36](/en/assets/images/forms36.png)
+
+![forms37](/en/assets/images/forms37.png)
+
+It is possible to generate a general report or a report 
+filtered by period: 
+
+![forms38](/en/assets/images/forms38.png)

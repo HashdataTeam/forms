@@ -8,4 +8,5 @@ has_children: true
 
 # Introduction
 
-Forms are.......
+In this section, all the steps necessary to prepare a form 
+will be presented.

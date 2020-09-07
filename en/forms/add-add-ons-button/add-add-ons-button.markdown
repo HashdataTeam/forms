@@ -2,7 +2,36 @@
 layout: page
 title: How to create questions via the “Add add-ons” button
 nav_order: 5
-parent: English
+parent: Forms
+grand_parent: English
 ---
-# <i>How to create questions via the “Add questions” button</i>
-There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction.
+# How to create questions via the “Add add-ons” button
+
+ 
+![forms10](/en/assets/images/forms10.png)
+   
+By using the button “Add add-ons”, it is possible 
+to show images to the respondent, exhibit texts and 
+attribute mathematical formulae to multiple choice 
+questions. The process to exhibit texts and images 
+is similar. This type of question is used, in general, 
+to show some recommendation, procedure, instructions, 
+so on. It is important to notice that these are 
+show-only questions, so it is not possible to answer 
+them – only to view the displayed text or image.
+   
+![forms11](/en/assets/images/forms11.png)
+   
+It is necessary to insert the question type 
+(which may or may not be displayed to the user) and, 
+then, fill the text field with the text and set it 
+according to your needs. When it is done, save it.
+   
+![forms12](/en/assets/images/forms12.png)
+   
+To create an image, the process is similar: fill 
+the box with the question title, choose if the title 
+must be displayer to the respondent, set the 
+alignment, choose the image and save.
+
+![forms13](/en/assets/images/forms13.png)

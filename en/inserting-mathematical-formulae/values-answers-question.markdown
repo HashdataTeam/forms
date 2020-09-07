@@ -2,7 +2,21 @@
 layout: page
 title: How to create questions via the “Add questions” button
 nav_order: 7
-parent: English
+parent: Forms
+grand_parent: English
 ---
-# <i>How to create questions via the “Add questions” button</i>
-There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction.
+# 1) How to attribute values to answers in a question
+
+Open the desired question (multiple choice with a 
+single answer or evaluation/satisfaction) or create 
+a new question of this kind and click in “assign values 
+to response”.
+
+![forms14](/en/assets/images/forms14.png)
+
+Insert the desired values after the “=” sign and 
+name the question in the field “variable name for 
+this question”, as the following image suggests. 
+After it is done, save the question. 
+
+![forms15](/en/assets/images/forms15.png)
