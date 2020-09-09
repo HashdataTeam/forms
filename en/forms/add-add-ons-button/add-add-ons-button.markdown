@@ -22,7 +22,7 @@ them – only to view the displayed text or image.
    
 ![forms11](/en/assets/images/forms11.png)
    
-It is necessary to insert the question type 
+It is necessary to insert the question title 
 (which may or may not be displayed to the user) and, 
 then, fill the text field with the text and set it 
 according to your needs. When it is done, save it.
