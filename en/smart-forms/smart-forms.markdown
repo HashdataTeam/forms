@@ -27,8 +27,8 @@ Then the icons will be activated:
 Select ![logic7](/en/assets/images/logic7.png) to activate 
 the navigation logic options.
 
-There are two steps to configure the navigation logic (1) 
-select the desired operator and (2) the question to which 
+There are two steps to configure the navigation logic **(1)** 
+select the desired operator and **(2)** the question to which 
 the user will be directed. This procedure must be performed 
 on all response options. In the case of the example below, 
 if the option "Ground Beef" is checked, the respondent will 
@@ -49,7 +49,7 @@ some of the options: "any", "all" or "none",
 as in the image above.
 There are many possibilities for combining and there are 
 no limits on the number of conditions, just follow the two 
-steps: (3) select the logical operator and (4) select the 
+steps: **(3)** select the logical operator and **(4)** select the 
 condition or conditions to be satisfied, as in the example 
 below.
 
