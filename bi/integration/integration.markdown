@@ -25,7 +25,7 @@ do this, follow the steps below:
 
 ![int2](/bi/assets/images/int2.png)
 
-**3) Enable the desired form**
+**3) Enable the form to be analyzed**
 
 ![int3](/bi/assets/images/int3.png)
 
