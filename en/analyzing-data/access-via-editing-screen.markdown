@@ -3,7 +3,7 @@ layout: page
 title: Access via editing screen
 nav_order: 18
 parent: Analyzing data
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Access via editing screen
 

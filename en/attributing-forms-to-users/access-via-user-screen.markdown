@@ -3,7 +3,7 @@ layout: page
 title: Access via user screen
 nav_order: 15
 parent: Attributing forms to users
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Access via users screen
 

@@ -3,7 +3,7 @@ layout: page
 title: Creating users via account manager or via user with managing permissions
 nav_order: 11
 parent: Users
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Creating users via account manager or via user with managing permissions 
 

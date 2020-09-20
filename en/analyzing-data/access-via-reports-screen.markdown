@@ -3,7 +3,7 @@ layout: page
 title: Access via reports screen
 nav_order: 17
 parent: Analyzing data
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Access via reports screen
 

@@ -2,7 +2,7 @@
 layout: page
 title: Notifications system
 nav_order: 6
-parent: English
+parent: Hashdata Forms
 ---
 # Notifications system
 

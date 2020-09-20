@@ -3,7 +3,7 @@ layout: page
 title: Create questions via the “Add questions” button
 nav_order: 7
 parent: Forms
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # 1) Attribute values to answers in a question
 

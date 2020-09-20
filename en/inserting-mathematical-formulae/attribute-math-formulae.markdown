@@ -3,7 +3,7 @@ layout: page
 title: Attribute mathematical formulae to questions with values
 nav_order: 8
 parent: Forms
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Attribute mathematical formulae to questions with values
 

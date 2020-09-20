@@ -3,7 +3,7 @@ layout: page
 title: Pre-sign up links
 nav_order: 12
 parent: Users
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Pre-sign up links
 (screen: users >> create pre-registration link >> 

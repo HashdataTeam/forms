@@ -2,7 +2,7 @@
 layout: page
 title: Analyzing data
 nav_order: 4
-parent: English
+parent: Hashdata Forms
 has_children: true
 
 ---

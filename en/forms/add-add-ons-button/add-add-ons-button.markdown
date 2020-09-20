@@ -3,7 +3,7 @@ layout: page
 title: Create questions via the “Add add-ons” button
 nav_order: 5
 parent: Forms
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Create questions via the “Add add-ons” button
 

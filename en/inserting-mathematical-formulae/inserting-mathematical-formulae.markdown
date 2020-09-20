@@ -3,7 +3,7 @@ layout: page
 title: Inserting mathematical formulae
 nav_order: 6
 parent: Forms
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Inserting mathematical formulae
 

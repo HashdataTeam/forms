@@ -3,7 +3,7 @@ layout: page
 title: Publishing forms
 nav_order: 3
 parent: Forms
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Publishing forms
 

@@ -2,7 +2,7 @@
 layout: page
 title: Attributing forms to users
 nav_order: 3
-parent: English
+parent: Hashdata Forms
 has_children: true
 ---
 # Attributing forms to users

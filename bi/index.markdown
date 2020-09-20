@@ -7,8 +7,13 @@ has_children: true
 
 # Hashdata Business Intelligence.
 
-Hashdata Business Intelligence (BI) is a powerful data 
+**Hashdata Business Intelligence (BI)** is a powerful data 
 analysis tool from which it is possible to customize your 
 dashboards that are built through visualizations that can 
-be bar, line, pie chart, count, gauge, maps, etc.
+be bar chart, line chart, pie chart, count, gauge, maps,
+metrics, controls, etc.
+
+
+To access the **BI** select the ![bi00](/bi/assets/images/bi00.png) 
+icon in the top right corner of Hashdata Forms.
 

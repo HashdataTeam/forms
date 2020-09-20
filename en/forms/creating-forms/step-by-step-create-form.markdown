@@ -3,7 +3,7 @@ layout: page
 title: Step-by-step on how to create a form
 nav_order: 2
 parent: Forms
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 
 # Step-by-step on how to create a form:

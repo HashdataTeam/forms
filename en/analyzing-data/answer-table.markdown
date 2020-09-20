@@ -3,7 +3,7 @@ layout: page
 title: Answer table
 nav_order: 19
 parent: Analyzing data
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Answer table
 

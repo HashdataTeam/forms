@@ -2,7 +2,7 @@
 layout: page
 title: Follow-up system
 nav_order: 7
-parent: English
+parent: Hashdata Forms
 ---
 # Follow-up system
 

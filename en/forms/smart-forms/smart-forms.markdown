@@ -3,7 +3,7 @@ layout: page
 title: Smart forms - navigation logic and display logic.
 nav_order: 20
 parent: Forms
-grand_parent: English
+grand_parent: Hashdata Forms
 ---
 # Smart forms: navigation logic and display logic.
 
