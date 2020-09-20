@@ -17,7 +17,7 @@ and thus the data collected through Hashdata Forms can
 be accessed through Hashdata Business Intelligence. To 
 do this, follow the steps below:
 
-**1) Select agregation**
+**1) Select "integration" from the main menu**
 
 ![int1](/bi/assets/images/int1.png)
 
