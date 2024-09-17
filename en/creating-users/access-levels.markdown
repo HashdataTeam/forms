@@ -13,7 +13,7 @@ them. It is important to remember that the permissions
 are cumulative – that is, it is possible to assign more 
 than one (or all) to a single user. 
 
-![forms19](/en/assets/images/forms19.png)
+![forms19](/forms/en/assets/images/forms19.png)
 
 **Perform data collection** – This is a basic permission 
 level, in which the user is only able to collect data 
