@@ -12,9 +12,9 @@ In this mode, the account manager creates each user
 (generating login and password) and attributes the access 
 levels manually. 
 
-![forms20](/forms/en/assets/images/forms20.png)
+![forms20](/en/assets/images/forms20.png)
 
 As they are created, the users appear in the managing 
 screen, where it is possible to make changes later:
 
-![forms21](/forms/en/assets/images/forms21.png)
+![forms21](/en/assets/images/forms21.png)

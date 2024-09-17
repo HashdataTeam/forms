@@ -1,0 +1,611 @@
+{"0": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": "The Hashdata is an online platform that consists of a software and an app that works as complementary tool to collect data. It also works offline and is available on Android (playstore), IOS (Appstore) and Windows 10 (contact us). There are five fundamental steps to using the system: . | Creating forms | Creating users | Attributing forms to users | Publishing forms | Analyzing data | . All other functionalities are associated to one or more of these steps, which will be explained throughout this tutorial. ",
+    "url": "/en/Introduction/Introduction.html",
+    
+    "relUrl": "/en/Introduction/Introduction.html"
+  },"1": {
+    "doc": "Access levels",
+    "title": "Access levels",
+    "content": "The access levels are the permissions attributed to the users. Below, there is a description of each one of them. It is important to remember that the permissions are cumulative – that is, it is possible to assign more than one (or all) to a single user. Perform data collection – This is a basic permission level, in which the user is only able to collect data in the app. View collected data – Also a basic permission level, in which the users are able to view the data collected. Manage collected data – The users are able to manage the collected data. Manage users – The user is able to manage other users, creating or deleting them, as well as generating pre-sign up links and so on. Manage permissions – The user is able to establish the access level of other users in the system. Manage Forms – The user is able to manage forms, creating, editing, publishing, archiving, and attributing them to users, etc. Manage integration (systems) – The user has access to integration scripts on Hashdata, as well as to integration with other systems – for instance, the Qlikview. ATTENTION! When managing the access levels of a certain user, make sure that the selected level really is the desired level. A user with all permissions gains the status of super user, being able to make any changes to the access account, including deleting information permanently. ",
+    "url": "/en/creating-users/access-levels.html",
+    
+    "relUrl": "/en/creating-users/access-levels.html"
+  },"2": {
+    "doc": "Access via editing screen",
+    "title": "Access via editing screen",
+    "content": "(screen: forms » choosing a form » more » graphical analysis of answer) . ",
+    "url": "/en/analyzing-data/access-via-editing-screen.html",
+    
+    "relUrl": "/en/analyzing-data/access-via-editing-screen.html"
+  },"3": {
+    "doc": "Access via forms screen",
+    "title": "Access via forms screen",
+    "content": "Open the form. If it is already published, click on “Authorized Users” . Attribute this form to the desired user. It is possible to attribute forms to user or organizational units, as the following image suggests: . If the form has not been published yet, click on “publish”. Select the users individually or by organizational units. ",
+    "url": "/en/attributing-forms-to-users/access-via-forms-screen.html",
+    
+    "relUrl": "/en/attributing-forms-to-users/access-via-forms-screen.html"
+  },"4": {
+    "doc": "Access via reports screen",
+    "title": "Access via reports screen",
+    "content": "(screen: reports) . Access via the reports screen on the initial menu: . The graphical analysis will be accessed via the editing screen in the desired form. On the top right corner, click on more » graphical analysis. ",
+    "url": "/en/analyzing-data/access-via-reports-screen.html",
+    
+    "relUrl": "/en/analyzing-data/access-via-reports-screen.html"
+  },"5": {
+    "doc": "Access via user screen",
+    "title": "Access via users screen",
+    "content": "(Screen: users) Open the user screen and click on the button , next to the user to which a form must be linked. Then, click on “forms acess”. Attribute the desired forms or folders. ",
+    "url": "/en/attributing-forms-to-users/access-via-user-screen.html#access-via-users-screen",
+    
+    "relUrl": "/en/attributing-forms-to-users/access-via-user-screen.html#access-via-users-screen"
+  },"6": {
+    "doc": "Access via user screen",
+    "title": "Access via user screen",
+    "content": " ",
+    "url": "/en/attributing-forms-to-users/access-via-user-screen.html",
+    
+    "relUrl": "/en/attributing-forms-to-users/access-via-user-screen.html"
+  },"7": {
+    "doc": "Create questions via the “Add add-ons” button",
+    "title": "Create questions via the “Add add-ons” button",
+    "content": ". By using the button “Add add-ons”, it is possible to show images to the respondent, exhibit texts and attribute mathematical formulae to multiple choice questions. The process to exhibit texts and images is similar. This type of question is used, in general, to show some recommendation, procedure, instructions, so on. It is important to notice that these are show-only questions, so it is not possible to answer them – only to view the displayed text or image. It is necessary to insert the question title (which may or may not be displayed to the user) and, then, fill the text field with the text and set it according to your needs. When it is done, save it. To create an image, the process is similar: fill the box with the question title, choose if the title must be displayer to the respondent, set the alignment, choose the image and save. ",
+    "url": "/en/forms/add-add-ons-button/add-add-ons-button.html",
+    
+    "relUrl": "/en/forms/add-add-ons-button/add-add-ons-button.html"
+  },"8": {
+    "doc": "Create questions via the “Add questions” button",
+    "title": "Create questions via the “Add questions” button",
+    "content": "There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction. All questions created from the button “Add question” must follow the same creation procedure: 1) inserting the question text, which is what the reader will see and 2) the desired type of question. That way, for a text-type question, for instance, you may ask in 1) what is your name? and in 2) select the text type, as suggested by the following image: . If the type of the question is image, for example, insert 1) question text (e.g. “take a picture”) and 2) select the image type, as follows: . This process is repeated for any other question type. ",
+    "url": "/en/forms/add-questions-button/add-questions.html",
+    
+    "relUrl": "/en/forms/add-questions-button/add-questions.html"
+  },"9": {
+    "doc": "Analyzing data",
+    "title": "Analyzing data",
+    "content": "The analysis of data is the resulting process of the data collection; There are two different ways to perform this analysis: 1) graphical analysis and 2) answer tables. Both are closely related, since it is possible to create filters in a screen and generate reports in the other and vice-versa. They can be accessed via the screen reports on the initial menu or via the editing screen in the form. ",
+    "url": "/en/analyzing-data/analyzing-data.html",
+    
+    "relUrl": "/en/analyzing-data/analyzing-data.html"
+  },"10": {
+    "doc": "Answer table",
+    "title": "Answer table",
+    "content": "(screen: forms » choose the form to be analyzed » more » answer table) . By clicking on “answer table”, it is possible to generate collection reports in PDF or export the data in XLS or CSV. It is possible to generate a general report or a report filtered by period: . ",
+    "url": "/en/analyzing-data/answer-table.html",
+    
+    "relUrl": "/en/analyzing-data/answer-table.html"
+  },"11": {
+    "doc": "Area",
+    "title": "Area",
+    "content": " ",
+    "url": "/bi/visualizations/area/area.html",
+    
+    "relUrl": "/bi/visualizations/area/area.html"
+  },"12": {
+    "doc": "Attribute mathematical formulae to questions with values",
+    "title": "Attribute mathematical formulae to questions with values",
+    "content": "After performing the first step on all questions to be calculated, it is time to create the mathematical formulae. Click on “add add-ons” and, then, on “mathematical formula”. The following editing layout will appear: . On the field “formula/expression”, insert the desired formula. On the case of the example - (S11+S12+S13).S21 – the signs supposed to be used are: . | Operation | Symbol | . | addition | + | . | Subtraction | - | . | Division | / | . | Multiplication | . | . All questions that had been through step 1 will appear on the field “variables available” and will be available to the accounts. ",
+    "url": "/en/inserting-mathematical-formulae/attribute-math-formulae.html",
+    
+    "relUrl": "/en/inserting-mathematical-formulae/attribute-math-formulae.html"
+  },"13": {
+    "doc": "Attributing forms to users",
+    "title": "Attributing forms to users",
+    "content": "(screen: forms » publications) . There are two ways of attributing forms to users: 1) via the screen of the form to be accessed or 2) via the screen of the user to be granted access. ",
+    "url": "/en/attributing-forms-to-users/attributing-forms-to-users.html",
+    
+    "relUrl": "/en/attributing-forms-to-users/attributing-forms-to-users.html"
+  },"14": {
+    "doc": "Controls",
+    "title": "Controls",
+    "content": " ",
+    "url": "/bi/visualizations/controls/controls.html",
+    
+    "relUrl": "/bi/visualizations/controls/controls.html"
+  },"15": {
+    "doc": "Creating users via account manager or via user with managing permissions",
+    "title": "Creating users via account manager or via user with managing permissions",
+    "content": "(Screen: users » create user) In this mode, the account manager creates each user (generating login and password) and attributes the access levels manually. As they are created, the users appear in the managing screen, where it is possible to make changes later: . ",
+    "url": "/en/creating-users/creating-users-am-perm.html",
+    
+    "relUrl": "/en/creating-users/creating-users-am-perm.html"
+  },"16": {
+    "doc": "Creating users",
+    "title": "Creating users via account manager or via user with managing permissions",
+    "content": "(Screen: users » create user) In this mode, the account manager creates each user (generating login and password) and attributes the access levels manually. As they are created, the users appear in the managing screen, where it is possible to make changes later: . ",
+    "url": "/en/creating-users/creating-users.html#creating-users-via-account-manager-or-via-user-with-managing-permissions",
+    
+    "relUrl": "/en/creating-users/creating-users.html#creating-users-via-account-manager-or-via-user-with-managing-permissions"
+  },"17": {
+    "doc": "Creating users",
+    "title": "Creating users",
+    "content": " ",
+    "url": "/en/creating-users/creating-users.html",
+    
+    "relUrl": "/en/creating-users/creating-users.html"
+  },"18": {
+    "doc": "Creating Forms",
+    "title": "Creating Forms",
+    "content": ". All information on Hashdata revolves around the forms. Therefore, all data is to be collected from them. In order to create a form, click on “forms” and then on “new form”. From there, fill the blank spaces with administrative data and create questions by clicking on “add new question” and “add add-on”. On the first case, when using the button “add new question”, all questions must follow the same creation logic. The user must establish a question and a desired answer type. The question is determined by the user, and the available answer types are: text, number, date, hour, date and hour (combined), multiple choice with one possible answer, multiple choice with more than one answer, formatted field (pre-established by the user), signature, image and location. ",
+    "url": "/en/forms/creating-forms/creating_forms.html",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html"
+  },"19": {
+    "doc": "Creating Forms",
+    "title": "Step-by-step on how to create a form:",
+    "content": "1) Forms . 2) Create new form . 3) Fill in the fields with the necessary information and click on “continue”. Pay attention to the following boxes: . If you check the box “WEB Page”, it will be possible to perform the collection via web, from a link generate automatically when the form is published, or via QR code. If you check the box “Form on mobile device”, the collection will be performed via app. It must be downloaded on the Playstore or Appstore (there is also an available version on Windows 10). In that case, the manager creates the users and assigns the access to them after finishing the form (refer to “how to creater users”). Select the users to which you wish to give access and publish the form, as suggested by the following picture: . ",
+    "url": "/en/forms/creating-forms/creating_forms.html#step-by-step-on-how-to-create-a-form",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#step-by-step-on-how-to-create-a-form"
+  },"20": {
+    "doc": "Creating Forms",
+    "title": "How to create questions via the “Add questions” button",
+    "content": "There are two buttons to create questions on Hashdata: “add questions” and “add add-ons”. In this section, we will explain the use of the button “add questions”, which is more widely used and which is located in the editing forms screen. In there, it is possible to find questions of the following types: text, number, masked field, date, date and time, signature, image (taking pictures), location (GPS), multiple choice (only one answer), multiple choice (more than one answer), rated/evaluation/satisfaction. All questions created from the button “Add question” must follow the same creation procedure: 1) inserting the question text, which is what the reader will see and 2) the desired type of question. That way, for a text-type question, for instance, you may ask in 1) what is your name? and in 2) select the text type, as suggested by the following image: . If the type of the question is image, for example, insert 1) question text (e.g. “take a picture”) and 2) select the image type, as follows: . This process is repeated for any other question type. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#how-to-create-questions-via-the-add-questions-button",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#how-to-create-questions-via-the-add-questions-button"
+  },"21": {
+    "doc": "Creating Forms",
+    "title": "How to create questions via the “Add add-ons” button",
+    "content": ". By using the button “Add add-ons”, it is possible to show images to the respondent, exhibit texts and attribute mathematical formulae to multiple choice questions. The process to exhibit texts and images is similar. This type of question is used, in general, to show some recommendation, procedure, instructions, so on. It is important to notice that these are show-only questions, so it is not possible to answer them – only to view the displayed text or image. It is necessary to insert the question title (which may or may not be displayed to the user) and, then, fill the text field with the text and set it according to your needs. When it is done, save it. To create an image, the process is similar: fill the box with the question title, choose if the title must be displayer to the respondent, set the alignment, choose the image and save. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#how-to-create-questions-via-the-add-add-ons-button",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#how-to-create-questions-via-the-add-add-ons-button"
+  },"22": {
+    "doc": "Creating Forms",
+    "title": "Inserting mathematical formulae",
+    "content": "The questions of the type “mathematical formula” are used to perform arithmetical calculations from the answers given. This type of question is attributed to multiple choice questions with only one answer or questions of evaluation/satisfaction. There are, fundamentally, two steps to create a question like this: 1) attributing values to the answers of a multiple choice question with only one answer or of evaluation/satisfaction and 2) performing the desired calculation, which will be detailed below. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#inserting-mathematical-formulae",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#inserting-mathematical-formulae"
+  },"23": {
+    "doc": "Creating Forms",
+    "title": "1) How to attribute values to answers in a question",
+    "content": "Open the desired question (multiple choice with a single answer or evaluation/satisfaction) or create a new question of this kind and click in “assign values to response”. Insert the desired values after the “=” sign and name the question in the field “variable name for this question”, as the following image suggests. After it is done, save the question. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#1-how-to-attribute-values-to-answers-in-a-question",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#1-how-to-attribute-values-to-answers-in-a-question"
+  },"24": {
+    "doc": "Creating Forms",
+    "title": "How to attribute mathematical formulae to questions with values",
+    "content": "After performing the first step on all questions to be calculated, it is time to create the mathematical formulae. Click on “add add-ons” and, then, on “mathematical formula”. The following editing layout will appear: . On the field “formula/expression”, insert the desired formula. On the case of the example - (S11+S12+S13).S21 – the signs supposed to be used are: . | Operation | Symbol | . | addition | + | . | Subtraction | - | . | Division | / | . | Multiplication | . | . All questions that had been through step 1 will appear on the field “variables available” and will be available to the accounts. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#how-to-attribute-mathematical-formulae-to-questions-with-values",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#how-to-attribute-mathematical-formulae-to-questions-with-values"
+  },"25": {
+    "doc": "Creating Forms",
+    "title": "Creating users",
+    "content": "(Screen: users » create user ) . The functionality “create user” assigns login and password to a newly created user. From these credentials, it is possible to access them system and, consequently, the forms made available by the account manager. From there, it is possible to perform data collection and access other functionalities in the system, depending on how it has been adjusted. It is recommended that the usernames correspond to the users’ e-mails because the system (in its entirety) does not accept users with the same name. Apart from the credentials, it is also necessary to assign an access level to the brand new user, which may vary according to the manager’s needs. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#creating-users",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#creating-users"
+  },"26": {
+    "doc": "Creating Forms",
+    "title": "Access levels",
+    "content": "The access levels are the permissions attributed to the users. Below, there is a description of each one of them. It is important to remember that the permissions are cumulative – that is, it is possible to assign more than one (or all) to a single user. Perform data collection – This is a basic permission level, in which the user is only able to collect data in the app. View collected data – Also a basic permission level, in which the users are able to view the data collected. Manage collected data – The users are able to manage the collected data. Manage users – The user is able to manage other users, creating or deleting them, as well as generating pre-sign up links and so on. Manage permissions – The user is able to establish the access level of other users in the system. Manage Forms – The user is able to manage forms, creating, editing, publishing, archiving, and attributing them to users, etc. Manage integration (systems) – The user has access to integration scripts on Hashdata, as well as to integration with other systems – for instance, the Qlikview. ATTENTION! When managing the access levels of a certain user, make sure that the selected level really is the desired level. A user with all permissions gains the status of super user, being able to make any changes to the access account, including deleting information permanently. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#access-levels",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#access-levels"
+  },"27": {
+    "doc": "Creating Forms",
+    "title": "Creating users via account manager or via user with managing permissions",
+    "content": "(Screen: users » create user) In this mode, the account manager creates each user (generating login and password) and attributes the access levels manually. As they are created, the users appear in the managing screen, where it is possible to make changes later: . ",
+    "url": "/en/forms/creating-forms/creating_forms.html#creating-users-via-account-manager-or-via-user-with-managing-permissions",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#creating-users-via-account-manager-or-via-user-with-managing-permissions"
+  },"28": {
+    "doc": "Creating Forms",
+    "title": "Pre-sign up links",
+    "content": "(screen: users » create pre-registration link » create new link) . In this mode, the account managers pre-sets the access levels desired and a link is generated automatically. From this link, anyone who accesses it is able to fill the fields with their information. That way, if the manager needs to register hundreds of users who are only supposed to collect data, a simple alternative is to assign the option “perform data collection” to all users registered via this link. After clicking on “save”, the link will be generated: . All users, whether created via link or manually, will appear on the managing screens – user manager screen or attribution of forms to a user. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#pre-sign-up-links",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#pre-sign-up-links"
+  },"29": {
+    "doc": "Creating Forms",
+    "title": "Attributing forms to users",
+    "content": "(screen: forms » publications) . There are two ways of attributing forms to users: 1) via the screen of the form to be accessed or 2) via the screen of the user to be granted access. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#attributing-forms-to-users",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#attributing-forms-to-users"
+  },"30": {
+    "doc": "Creating Forms",
+    "title": "1) Access via forms screen",
+    "content": "Open the form. If it is already published, click on “Authorized Users” . Attribute this form to the desired user. It is possible to attribute forms to user or organizational units, as the following image suggests: . If the form has not been published yet, click on “publish”. Select the users individually or by organizational units. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#1-access-via-forms-screen",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#1-access-via-forms-screen"
+  },"31": {
+    "doc": "Creating Forms",
+    "title": "2) Access via users screen",
+    "content": "(Screen: users) Open the user screen and click on the button , next to the user to which a form must be linked. Then, click on “forms acess”. Attribute the desired forms or folders. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#2-access-via-users-screen",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#2-access-via-users-screen"
+  },"32": {
+    "doc": "Creating Forms",
+    "title": "Analyzing data",
+    "content": "The analysis of data is the resulting process of the data collection; There are two different ways to perform this analysis: 1) graphical analysis and 2) answer tables. Both are closely related, since it is possible to create filters in a screen and generate reports in the other and vice-versa. They can be accessed via the screen reports on the initial menu or via the editing screen in the form. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#analyzing-data",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#analyzing-data"
+  },"33": {
+    "doc": "Creating Forms",
+    "title": "Access via reports screen",
+    "content": "(screen: reports) . Access via the reports screen on the initial menu: . The graphical analysis will be accessed via the editing screen in the desired form. On the top right corner, click on more » graphical analysis. ",
+    "url": "/en/forms/creating-forms/creating_forms.html#access-via-reports-screen",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#access-via-reports-screen"
+  },"34": {
+    "doc": "Creating Forms",
+    "title": "Access via editing screen",
+    "content": "(screen: forms » choosing a form » more » graphical analysis of answer) . ",
+    "url": "/en/forms/creating-forms/creating_forms.html#access-via-editing-screen",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#access-via-editing-screen"
+  },"35": {
+    "doc": "Creating Forms",
+    "title": "Answer table",
+    "content": "(screen: forms » choose the form to be analyzed » more » answer table) . By clicking on “answer table”, it is possible to generate collection reports in PDF or export the data in XLS or CSV. It is possible to generate a general report or a report filtered by period: . ",
+    "url": "/en/forms/creating-forms/creating_forms.html#answer-table",
+    
+    "relUrl": "/en/forms/creating-forms/creating_forms.html#answer-table"
+  },"36": {
+    "doc": "Dashboards",
+    "title": "Dashboards",
+    "content": "The first step in using Hashdata Business Intelligence is to integrate with Hashdata Forms, so that data is exported and analyzed. Next we will show you step by step how to perform the integration. Integration is necessary for both systems to communicate and thus the data collected through Hashdata Forms can be accessed through Hashdata Business Intelligence. To do this, follow the steps below: . 1) Select “integration” from the main menu . 2) Enable integration . 3) Enable the form to be analyzed . 4) Assign an index name and name the questions . Fill in the question names in the “field name export”. It is also possible to fill in automatically by selecting the button in the lower left corner. Attention: Do not remove the number automatically generated by the system. In the case of the example, the number is 394. Once these steps are completed, the integration is done and the data is ready to be analyzed in Hashdata BI. ",
+    "url": "/bi/dashboards/dashboards.html",
+    
+    "relUrl": "/bi/dashboards/dashboards.html"
+  },"37": {
+    "doc": "Data Table",
+    "title": "Data Table",
+    "content": " ",
+    "url": "/bi/visualizations/data-table/data-table.html",
+    
+    "relUrl": "/bi/visualizations/data-table/data-table.html"
+  },"38": {
+    "doc": "Forms",
+    "title": "Introduction",
+    "content": "In this section, all the steps necessary to prepare a form will be presented. ",
+    "url": "/en/forms/forms.html#introduction",
+    
+    "relUrl": "/en/forms/forms.html#introduction"
+  },"39": {
+    "doc": "Forms",
+    "title": "Forms",
+    "content": " ",
+    "url": "/en/forms/forms.html",
+    
+    "relUrl": "/en/forms/forms.html"
+  },"40": {
+    "doc": "Gauge",
+    "title": "Gauge",
+    "content": " ",
+    "url": "/bi/visualizations/gauge/gauge.html",
+    
+    "relUrl": "/bi/visualizations/gauge/gauge.html"
+  },"41": {
+    "doc": "Goal",
+    "title": "Goal",
+    "content": " ",
+    "url": "/bi/visualizations/goal/goal.html",
+    
+    "relUrl": "/bi/visualizations/goal/goal.html"
+  },"42": {
+    "doc": "Heat Map",
+    "title": "Heat Map",
+    "content": " ",
+    "url": "/bi/visualizations/heat-map/heat-map.html",
+    
+    "relUrl": "/bi/visualizations/heat-map/heat-map.html"
+  },"43": {
+    "doc": "Horizontal Bar",
+    "title": "Horizontal Bar",
+    "content": " ",
+    "url": "/bi/visualizations/horizontal-bar/horizontal-bar.html",
+    
+    "relUrl": "/bi/visualizations/horizontal-bar/horizontal-bar.html"
+  },"44": {
+    "doc": "Hashdata Forms",
+    "title": "Hashdata Forms",
+    "content": "Hashdata forms is an excellent data collection and analysis tool in which the user creates their personalized forms, replacing the use of paper. It is possible to collect images, signatures, location, link mathematical formulas, multiple choice questions, date, time, text, generating automatic reports in real time. The tool also works offline and consists of the online software available at www.hashdata.us.com and the application available on IOS, Android and Windows that can be downloaded at the respective stores. ",
+    "url": "/en/",
+    
+    "relUrl": "/en/"
+  },"45": {
+    "doc": "Home",
+    "title": "Welcome to Hashdata Tutorial",
+    "content": "Here you will find all the necessary documentation to use Hashdata in high performance both Hashdata Forms and Hashdata Business Intelligence. ",
+    "url": "/#welcome-to-hashdata-tutorial",
+    
+    "relUrl": "/#welcome-to-hashdata-tutorial"
+  },"46": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"47": {
+    "doc": "Hashdata Business Intelligence",
+    "title": "Hashdata Business Intelligence.",
+    "content": "Hashdata Business Intelligence (BI) is a powerful data analysis tool from which it is possible to customize your dashboards that are built through visualizations that can be bar chart, line chart, pie chart, count, gauge, maps, metrics, controls, etc. To access the BI select the icon in the top right corner of Hashdata Forms. ",
+    "url": "/bi/#hashdata-business-intelligence",
+    
+    "relUrl": "/bi/#hashdata-business-intelligence"
+  },"48": {
+    "doc": "Hashdata Business Intelligence",
+    "title": "Hashdata Business Intelligence",
+    "content": " ",
+    "url": "/bi/",
+    
+    "relUrl": "/bi/"
+  },"49": {
+    "doc": "Inserting mathematical formulae",
+    "title": "Inserting mathematical formulae",
+    "content": "The questions of the type “mathematical formula” are used to perform arithmetical calculations from the answers given. This type of question is attributed to multiple choice questions with only one answer or questions of evaluation/satisfaction. There are, fundamentally, two steps to create a question like this: 1) attributing values to the answers of a multiple choice question with only one answer or of evaluation/satisfaction and 2) performing the desired calculation, which will be detailed below. ",
+    "url": "/en/inserting-mathematical-formulae/inserting-mathematical-formulae.html",
+    
+    "relUrl": "/en/inserting-mathematical-formulae/inserting-mathematical-formulae.html"
+  },"50": {
+    "doc": "Integration",
+    "title": "Integration",
+    "content": "The first step in using Hashdata Business Intelligence is to integrate with Hashdata Forms, so that data is exported and analyzed. Next we will show you step by step how to perform the integration. Integration is necessary for both systems to communicate and thus the data collected through Hashdata Forms can be accessed through Hashdata Business Intelligence. To do this, follow the steps below: . 1) Select “integration” from the main menu . 2) Enable integration . 3) Enable the form to be analyzed . 4) Assign an index name and name the questions . Fill in the question names in the “field name export”. It is also possible to fill in automatically by selecting the button in the lower left corner. Attention: Do not remove the number automatically generated by the system. In the case of the example, the number is 394. Once these steps are completed, the integration is done and the data is ready to be analyzed in Hashdata BI. ",
+    "url": "/bi/integration/integration.html",
+    
+    "relUrl": "/bi/integration/integration.html"
+  },"51": {
+    "doc": "Lens",
+    "title": "Lens",
+    "content": " ",
+    "url": "/bi/visualizations/lens/lens.html",
+    
+    "relUrl": "/bi/visualizations/lens/lens.html"
+  },"52": {
+    "doc": "Line",
+    "title": "Line",
+    "content": " ",
+    "url": "/bi/visualizations/line/line.html",
+    
+    "relUrl": "/bi/visualizations/line/line.html"
+  },"53": {
+    "doc": "Maps",
+    "title": "Maps",
+    "content": " ",
+    "url": "/bi/visualizations/maps/maps.html",
+    
+    "relUrl": "/bi/visualizations/maps/maps.html"
+  },"54": {
+    "doc": "Markdown",
+    "title": "Markdown",
+    "content": " ",
+    "url": "/bi/visualizations/markdown/markdown.html",
+    
+    "relUrl": "/bi/visualizations/markdown/markdown.html"
+  },"55": {
+    "doc": "Markdown",
+    "title": "Markdown",
+    "content": "Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for . Syntax highlighted code block # Header 1 ## Header 2 ### Header 3 - Bulleted - List 1. Numbered 2. List **Bold** and _Italic_ and `Code` text [Link](url) and ![Image](src) . For more details see GitHub Flavored Markdown . ",
+    "url": "/markdown.html",
+    
+    "relUrl": "/markdown.html"
+  },"56": {
+    "doc": "Markdown",
+    "title": "Just the Docs",
+    "content": "Documentation . ",
+    "url": "/markdown.html#just-the-docs",
+    
+    "relUrl": "/markdown.html#just-the-docs"
+  },"57": {
+    "doc": "Metric",
+    "title": "Metric",
+    "content": " ",
+    "url": "/bi/visualizations/metric/metric.html",
+    
+    "relUrl": "/bi/visualizations/metric/metric.html"
+  },"58": {
+    "doc": "Migrating account to the new version of Hashdata",
+    "title": "Migrating account to the new version of Hashdata",
+    "content": "… TODO … . ",
+    "url": "/migration/migration.html",
+    
+    "relUrl": "/migration/migration.html"
+  },"59": {
+    "doc": "Notifications system",
+    "title": "Notifications system",
+    "content": "The notification system has two fundamental functions: 1) working as a reminder, notifying users that a certain collection must be performed or sending several reminder notices (Scheduling notifications) and 2) notifying users when a certain event occurs (Event notifications). In the following sections, we will address these two uses of the tool. ",
+    "url": "/en/notification/notification.html",
+    
+    "relUrl": "/en/notification/notification.html"
+  },"60": {
+    "doc": "Notifications system",
+    "title": "1) Scheduling notifications",
+    "content": "In the form editing screen, select “Scheduling notifications”: . Then select “add notification”: . The notification screen by scheduling will appear, where it is possible to enter a title for the notification (1), the message content (2) and the triggering mechanism (3), configuring time, date and timezone, as shown in the figure below: . After configuring items (1), (2) and (3), select “recipients” to set up who will receive the notification created and the notification method: email or push (via app) or both. ",
+    "url": "/en/notification/notification.html#1-scheduling-notifications",
+    
+    "relUrl": "/en/notification/notification.html#1-scheduling-notifications"
+  },"61": {
+    "doc": "Notifications system",
+    "title": "Set up the recipients",
+    "content": "To notify users via email, select the check box corresponding to the user.To notify users via App, select the check box corresponding to the user. It is also possible to check both, as in the example below: . If the icon appears in the e-mail field instead of the checkbox, it means that the e-mail has not been confirmed by the user. In this case, you must confirm the email to show the check box (when an email is registered in the system when the user is created, hashdata sends an automatic confirmation email). If the icon appears in the app field instead of the checkbox, it means that the user does not have the app installed. In this case, you must install the App to show the check box. ",
+    "url": "/en/notification/notification.html#set-up-the-recipients",
+    
+    "relUrl": "/en/notification/notification.html#set-up-the-recipients"
+  },"62": {
+    "doc": "Notifications system",
+    "title": "2) Event notifications",
+    "content": "In the form editing screen, select “Event notifications”: . Then select “add notification”: . Select the trigger type for the notification: . In the “Add new collection” trigger, the notification will be triggered every time a collection is performed. In the “Update collection” trigger, the notification will be triggered every time a collection already made is modified. In the “Delete collection” trigger, the notification will be triggered every time a collection is deleted on the form. In addition to these options, it is possible to customize the events by selecting “yes” in the trigger conditions, as shown in the image below: . It is possible to quantify the conditions. Thus, it is possible to select whether “all conditions must be true”, “at least one condition must be true” or if “no conditions must be true”. After selecting the logical operator, it is possible to create specific conditions for each of the questions by the button . In the example below, it is easy to see that the system will trigger the notification if a collection is made by the auditor Eric, in the accounting department: . There are many possibilities for combining and there are no limits on the number of conditions, just follow the two steps: (1) select the logical operator and (2) select the condition or conditions to be satisfied, as in the example above. After configuring items (1) and (2), select “recipients” to set up who will receive the notification created and the notification method: email or push (via app) or both. ",
+    "url": "/en/notification/notification.html#2-event-notifications",
+    
+    "relUrl": "/en/notification/notification.html#2-event-notifications"
+  },"63": {
+    "doc": "Notifications system",
+    "title": "Set up the recipients",
+    "content": "To notify users via email, select the check box corresponding to the user.To notify users via App, select the check box corresponding to the user. It is also possible to check both, as in the example below: . If the icon appears in the e-mail field instead of the checkbox, it means that the e-mail has not been confirmed by the user. In this case, you must confirm the email to show the check box (when an email is registered in the system when the user is created, hashdata sends an automatic confirmation email). If the icon appears in the app field instead of the checkbox, it means that the user does not have the app installed. In this case, you must install the App to show the check box. ",
+    "url": "/en/notification/notification.html#set-up-the-recipients-1",
+    
+    "relUrl": "/en/notification/notification.html#set-up-the-recipients-1"
+  },"64": {
+    "doc": "Follow-up system",
+    "title": "Follow-up system",
+    "content": "The follow up system was designed so that the user can follow important parameters or changes in a given form. For this, specific follow-up questions are created where the manager is able to monitor the progress of the variables of interest. ",
+    "url": "/en/follow-up/notification.html",
+    
+    "relUrl": "/en/follow-up/notification.html"
+  },"65": {
+    "doc": "Pie",
+    "title": "Pie",
+    "content": " ",
+    "url": "/bi/visualizations/pie/pie.html",
+    
+    "relUrl": "/bi/visualizations/pie/pie.html"
+  },"66": {
+    "doc": "Pre-sign up links",
+    "title": "Pre-sign up links",
+    "content": "(screen: users » create pre-registration link » create new link) . In this mode, the account managers pre-sets the access levels desired and a link is generated automatically. From this link, anyone who accesses it is able to fill the fields with their information. That way, if the manager needs to register hundreds of users who are only supposed to collect data, a simple alternative is to assign the option “perform data collection” to all users registered via this link. After clicking on “save”, the link will be generated: . All users, whether created via link or manually, will appear on the managing screens – user manager screen or attribution of forms to a user. ",
+    "url": "/en/creating-users/pre-sign-up-links.html",
+    
+    "relUrl": "/en/creating-users/pre-sign-up-links.html"
+  },"67": {
+    "doc": "Publishing forms",
+    "title": "Publishing forms",
+    "content": "The publication of forms is an essential step in the flow of information in Hashdata. Every form when it is being created is automatically saved as a draft, this means that any answers that are given in that mode will be discarded. For the form to start receiving collections and validating them, it is necessary to publish the form. To perform this procedure, click on the “publish” button on the form editing screen. Select the users or oganizational units to be authorized to access the form: . In the APP, all authorized users will be able to access the desired forms in the “published” button, as shown in the image below: . ",
+    "url": "/en/publishing-forms/publishing-forms.html",
+    
+    "relUrl": "/en/publishing-forms/publishing-forms.html"
+  },"68": {
+    "doc": "Smart forms - navigation logic and display logic.",
+    "title": "Smart forms: navigation logic and display logic.",
+    "content": "The functionalities “smart forms” were developed so that your form makes decisions automatically and is composed by the navigation logic and the display logic. When enabled, the Navigation Logic skips questions from the answers given to a previous question and the display logic displays questions from pre-established pre-conditions by the user. To enable smart forms functionality go to: . Then the icons will be activated: . ",
+    "url": "/en/forms/smart-forms/smart-forms.html#smart-forms-navigation-logic-and-display-logic",
+    
+    "relUrl": "/en/forms/smart-forms/smart-forms.html#smart-forms-navigation-logic-and-display-logic"
+  },"69": {
+    "doc": "Smart forms - navigation logic and display logic.",
+    "title": "Navigation logic",
+    "content": "Select to activate the navigation logic options. There are two steps to configure the navigation logic (1) select the desired operator and (2) the question to which the user will be directed. This procedure must be performed on all response options. In the case of the example below, if the option “Ground Beef” is checked, the respondent will be directed to question 5 “5S Area”. ",
+    "url": "/en/forms/smart-forms/smart-forms.html#navigation-logic",
+    
+    "relUrl": "/en/forms/smart-forms/smart-forms.html#navigation-logic"
+  },"70": {
+    "doc": "Smart forms - navigation logic and display logic.",
+    "title": "Display logic",
+    "content": "Select to activate the navigation logic options. Then the screen will appear: . Select to assign a new viewing condition and choose some of the options: “any”, “all” or “none”, as in the image above. There are many possibilities for combining and there are no limits on the number of conditions, just follow the two steps: (3) select the logical operator and (4) select the condition or conditions to be satisfied, as in the example below. Neste caso a questão “14. Are there waste sources such as water, power (lights not working, AC units down), etc…?” só irá aparecer se “todas” as condições forem verdadeiras: se o auditor for Bruce e o departamento for Human Resources. ",
+    "url": "/en/forms/smart-forms/smart-forms.html#display-logic",
+    
+    "relUrl": "/en/forms/smart-forms/smart-forms.html#display-logic"
+  },"71": {
+    "doc": "Smart forms - navigation logic and display logic.",
+    "title": "Smart forms - navigation logic and display logic.",
+    "content": " ",
+    "url": "/en/forms/smart-forms/smart-forms.html",
+    
+    "relUrl": "/en/forms/smart-forms/smart-forms.html"
+  },"72": {
+    "doc": "Step-by-step on how to create a form",
+    "title": "Step-by-step on how to create a form:",
+    "content": " ",
+    "url": "/en/forms/creating-forms/step-by-step-create-form.html#step-by-step-on-how-to-create-a-form",
+    
+    "relUrl": "/en/forms/creating-forms/step-by-step-create-form.html#step-by-step-on-how-to-create-a-form"
+  },"73": {
+    "doc": "Step-by-step on how to create a form",
+    "title": "1) Forms",
+    "content": ". ",
+    "url": "/en/forms/creating-forms/step-by-step-create-form.html#1-forms",
+    
+    "relUrl": "/en/forms/creating-forms/step-by-step-create-form.html#1-forms"
+  },"74": {
+    "doc": "Step-by-step on how to create a form",
+    "title": "2) Create new form",
+    "content": ". ",
+    "url": "/en/forms/creating-forms/step-by-step-create-form.html#2-create-new-form",
+    
+    "relUrl": "/en/forms/creating-forms/step-by-step-create-form.html#2-create-new-form"
+  },"75": {
+    "doc": "Step-by-step on how to create a form",
+    "title": "3) Fill in the fields with the necessary information",
+    "content": "and click on “continue”. Pay attention to the following boxes: . If you check the box “WEB Page”, it will be possible to perform the collection via web, from a link generate automatically when the form is published, or via QR code. If you check the box “Form on mobile device”, the collection will be performed via app. It must be downloaded on the Playstore or Appstore (there is also an available version on Windows 10). In that case, the manager creates the users and assigns the access to them after finishing the form (refer to “how to creater users”). Select the users to which you wish to give access and publish the form, as suggested by the following picture: . ",
+    "url": "/en/forms/creating-forms/step-by-step-create-form.html#3-fill-in-the-fields-with-the-necessary-information",
+    
+    "relUrl": "/en/forms/creating-forms/step-by-step-create-form.html#3-fill-in-the-fields-with-the-necessary-information"
+  },"76": {
+    "doc": "Step-by-step on how to create a form",
+    "title": "Step-by-step on how to create a form",
+    "content": " ",
+    "url": "/en/forms/creating-forms/step-by-step-create-form.html",
+    
+    "relUrl": "/en/forms/creating-forms/step-by-step-create-form.html"
+  },"77": {
+    "doc": "Tag Cloud",
+    "title": "Tag Cloud",
+    "content": " ",
+    "url": "/bi/visualizations/tag-cloud/tag-cloud.html",
+    
+    "relUrl": "/bi/visualizations/tag-cloud/tag-cloud.html"
+  },"78": {
+    "doc": "Timelion",
+    "title": "Timelion",
+    "content": " ",
+    "url": "/bi/visualizations/timelion/timelion.html",
+    
+    "relUrl": "/bi/visualizations/timelion/timelion.html"
+  },"79": {
+    "doc": "Time Series Visual Basic (TSVB)",
+    "title": "Time Series Visual Basic (TSVB)",
+    "content": " ",
+    "url": "/bi/visualizations/tsvb/tsvb.html",
+    
+    "relUrl": "/bi/visualizations/tsvb/tsvb.html"
+  },"80": {
+    "doc": "Users",
+    "title": "Creating users",
+    "content": "(Screen: users » create user ) . The functionality “create user” assigns login and password to a newly created user. From these credentials, it is possible to access them system and, consequently, the forms made available by the account manager. From there, it is possible to perform data collection and access other functionalities in the system, depending on how it has been adjusted. It is recommended that the usernames correspond to the users’ e-mails because the system (in its entirety) does not accept users with the same name. Apart from the credentials, it is also necessary to assign an access level to the brand new user, which may vary according to the manager’s needs. ",
+    "url": "/en/creating-users/users.html#creating-users",
+    
+    "relUrl": "/en/creating-users/users.html#creating-users"
+  },"81": {
+    "doc": "Users",
+    "title": "Users",
+    "content": " ",
+    "url": "/en/creating-users/users.html",
+    
+    "relUrl": "/en/creating-users/users.html"
+  },"82": {
+    "doc": "Create questions via the “Add questions” button",
+    "title": "1) Attribute values to answers in a question",
+    "content": "Open the desired question (multiple choice with a single answer or evaluation/satisfaction) or create a new question of this kind and click in “assign values to response”. Insert the desired values after the “=” sign and name the question in the field “variable name for this question”, as the following image suggests. After it is done, save the question. ",
+    "url": "/en/inserting-mathematical-formulae/values-answers-question.html#1-attribute-values-to-answers-in-a-question",
+    
+    "relUrl": "/en/inserting-mathematical-formulae/values-answers-question.html#1-attribute-values-to-answers-in-a-question"
+  },"83": {
+    "doc": "Create questions via the “Add questions” button",
+    "title": "Create questions via the “Add questions” button",
+    "content": " ",
+    "url": "/en/inserting-mathematical-formulae/values-answers-question.html",
+    
+    "relUrl": "/en/inserting-mathematical-formulae/values-answers-question.html"
+  },"84": {
+    "doc": "Vega",
+    "title": "Vega",
+    "content": " ",
+    "url": "/bi/visualizations/vega/vega.html",
+    
+    "relUrl": "/bi/visualizations/vega/vega.html"
+  },"85": {
+    "doc": "Vertical Bar",
+    "title": "Vertical Bar",
+    "content": " ",
+    "url": "/bi/visualizations/vertical-bar/vertical-bar.html",
+    
+    "relUrl": "/bi/visualizations/vertical-bar/vertical-bar.html"
+  },"86": {
+    "doc": "Visualizations",
+    "title": "Visualizations",
+    "content": "Visualizations are the entities that make up the dashboards. There are 18 views on Hashdata Business Intelligence, they are: . Each view has its own characteristics and in this tutorial we will cover each one. Select a visualization below to be redirected to the explanatory page. ",
+    "url": "/bi/visualizations/visualizations.html",
+    
+    "relUrl": "/bi/visualizations/visualizations.html"
+  }
+}

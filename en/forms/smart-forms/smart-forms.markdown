@@ -16,15 +16,15 @@ questions from pre-established pre-conditions by the user.
 
 To enable smart forms functionality go to:
 
-![logic1](/forms/en/assets/images/logic1.png)
+![logic1](/en/assets/images/logic1.png)
 
 Then the icons will be activated:
 
-![logic2](/forms/en/assets/images/logic2.png)
+![logic2](/en/assets/images/logic2.png)
 
 ## Navigation logic
 
-Select ![logic7](/forms/en/assets/images/logic7.png) to activate 
+Select ![logic7](/en/assets/images/logic7.png) to activate 
 the navigation logic options.
 
 There are two steps to configure the navigation logic **(1)** 
@@ -34,16 +34,16 @@ on all response options. In the case of the example below,
 if the option "Ground Beef" is checked, the respondent will 
 be directed to question 5 "5S Area".
 
-![logic3](/forms/en/assets/images/logic3.png)
+![logic3](/en/assets/images/logic3.png)
 
 ## Display logic
 
-Select ![logic6](/forms/en/assets/images/logic6.png) to activate 
+Select ![logic6](/en/assets/images/logic6.png) to activate 
 the navigation logic options. Then the screen will appear:
 
-![logic4](/forms/en/assets/images/logic4.png) 
+![logic4](/en/assets/images/logic4.png) 
 
-Select ![notification16](/forms/en/assets/images/notification16.png) 
+Select ![notification16](/en/assets/images/notification16.png) 
 to assign a new viewing condition and choose
 some of the options: "any", "all" or "none", 
 as in the image above.
@@ -53,7 +53,7 @@ steps: **(3)** select the logical operator and **(4)** select the
 condition or conditions to be satisfied, as in the example 
 below.
 
-![logic5](/forms/en/assets/images/logic5.png)
+![logic5](/en/assets/images/logic5.png)
 
 Neste caso a questão "14. Are there waste sources such 
 as water, power (lights not working, AC units down), 

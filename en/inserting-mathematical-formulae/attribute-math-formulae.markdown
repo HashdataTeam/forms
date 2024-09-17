@@ -12,11 +12,11 @@ calculated, it is time to create the mathematical
 formulae. Click on “add add-ons” and, then, on 
 “mathematical formula”.
 
-![forms16](/forms/en/assets/images/forms16.png)
+![forms16](/en/assets/images/forms16.png)
 
 The following editing layout will appear:
 
-![forms17](/forms/en/assets/images/forms17.png)
+![forms17](/en/assets/images/forms17.png)
 
 On the field “formula/expression”, insert the desired 
 formula. On the case of the example - 
@@ -33,4 +33,4 @@ All questions that had been through step 1 will appear
 on the field “variables available” and will be available 
 to the accounts.
 
-![forms18](/forms/en/assets/images/forms18.png)
+![forms18](/en/assets/images/forms18.png)
