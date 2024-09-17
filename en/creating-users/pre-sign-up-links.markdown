@@ -19,11 +19,11 @@ to assign the option “perform data collection” to all
 users registered via this link. 
 
 
-![forms22](/forms/en/assets/images/forms22.png)
+![forms22](/en/assets/images/forms22.png)
 
 After clicking on “save”, the link will be generated:
 
-![forms23](/forms/en/assets/images/forms23.png)
+![forms23](/en/assets/images/forms23.png)
 
 All users, whether created via link or manually, 
 will appear on the managing screens – user manager 
