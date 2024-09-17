@@ -10,26 +10,26 @@ grand_parent: Hashdata Forms
 
 ## 1) Forms
 
-![forms1](/en/assets/images/forms1.png)
+![forms1](/forms/en/assets/images/forms1.png)
 
 ## 2) Create new form
 
-![forms2](/en/assets/images/forms2.png)
+![forms2](/forms/en/assets/images/forms2.png)
 
 ## 3) Fill in the fields with the necessary information 
 and click on “continue”.
 
-![forms3](/en/assets/images/forms3.png)
+![forms3](/forms/en/assets/images/forms3.png)
 
 Pay attention to the following boxes:
 
-![forms4](/en/assets/images/forms4.png)
+![forms4](/forms/en/assets/images/forms4.png)
 
 If you check the box “WEB Page”, it will be possible 
 to perform the collection via web, from a link generate 
 automatically when the form is published, or via QR code.
 
-![forms5](/en/assets/images/forms5.png)
+![forms5](/forms/en/assets/images/forms5.png)
  
 If you check the box “Form on mobile device”, the 
 collection will be performed via app. It must be 
@@ -41,5 +41,5 @@ users”). Select the users to which you wish to give
 access and publish the form, as suggested by the 
 following picture: 
  
-![forms6](/en/assets/images/forms6.png)
+![forms6](/forms/en/assets/images/forms6.png)
  

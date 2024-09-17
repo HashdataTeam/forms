@@ -11,6 +11,6 @@ grand_parent: Hashdata Forms
 analysis of answer)
 
 
-![forms34](/en/assets/images/forms34.png)
+![forms34](/forms/en/assets/images/forms34.png)
 
-![forms35](/en/assets/images/forms35.png)
+![forms35](/forms/en/assets/images/forms35.png)
