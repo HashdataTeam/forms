@@ -17,18 +17,18 @@ To perform this procedure, click on the “publish” button on
 the form editing screen.
 
 
-![publication](/en/assets/images/publication.png)
+![publication](/forms/en/assets/images/publication.png)
 
 
 Select the users or oganizational units to be authorized to 
 access the form:
 
-![publication2](/en/assets/images/publication2.png)
+![publication2](/forms/en/assets/images/publication2.png)
 
 In the APP, all authorized users will be able to access the 
 desired forms in the “published” button, as shown in the image below:
 
-![app1](/en/assets/images/app1.png)
+![app1](/forms/en/assets/images/app1.png)
 
 
 
