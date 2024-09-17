@@ -14,6 +14,6 @@ be bar chart, line chart, pie chart, count, gauge, maps,
 metrics, controls, etc.
 
 
-To access the **BI** select the ![bi00](/bi/assets/images/bi00.png) 
+To access the **BI** select the ![bi00](/forms/bi/assets/images/bi00.png) 
 icon in the top right corner of Hashdata Forms.
 

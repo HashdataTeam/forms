@@ -10,7 +10,7 @@ has_children: true
 Visualizations are the entities that make up the dashboards. 
 There are 18 views on Hashdata Business Intelligence, they are:
 
-![visualizations](/bi/assets/images/visualizations.png)
+![visualizations](/forms/bi/assets/images/visualizations.png)
 
 Each view has its own characteristics and in this tutorial 
 we will cover each one. Select a visualization below to be redirected 

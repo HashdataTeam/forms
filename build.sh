@@ -8,5 +8,5 @@
   cp -a /tmp/_site/* .
   git add .
   git commit -m "Update site"
-  git push origin gh-pages
+  echo "PUSH NOW (manually)"
 )
